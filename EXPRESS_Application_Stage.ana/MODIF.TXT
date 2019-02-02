@@ -1,0 +1,3 @@
+//MO015-016.TXT ANA00015 TO ANA00016
+EXPRESS_Compte		TAR	179	nouvelle taille enregistrement : 179
+EXPRESS_Compte	connecte	RUB+		connecte est une nouvelle rubrique

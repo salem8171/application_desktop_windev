@@ -1,0 +1,6 @@
+//MO000-001.TXT ANA00000 TO ANA00001
+EXPRESS_Compte		NFI		nouveau fichier
+EXPRESS_Connexion		NFI		nouveau fichier
+EXPRESS_Album		NFI		nouveau fichier
+Contrainte_EXPRESS_Compte_EXPRESS_Connexion		NWL	EXPRESS_Compte (IDEXPRESS_Compte) et EXPRESS_Connexion (IDEXPRESS_Compte)	Nouvelle liaison entre les fichiers EXPRESS_Compte (IDEXPRESS_Compte) et EXPRESS_Connexion (IDEXPRESS_Compte)
+Contrainte_EXPRESS_Compte_EXPRESS_Album		NWL	EXPRESS_Compte (IDEXPRESS_Compte) et EXPRESS_Album (IDEXPRESS_Compte)	Nouvelle liaison entre les fichiers EXPRESS_Compte (IDEXPRESS_Compte) et EXPRESS_Album (IDEXPRESS_Compte)

@@ -1,0 +1,5 @@
+//MO001-002.TXT ANA00001 TO ANA00002
+EXPRESS_Compte		FCNX+	Connexion HFSQL Classic	
+EXPRESS_Connexion		FCNX+	Connexion HFSQL Classic	
+EXPRESS_Album		FCNX+	Connexion HFSQL Classic	
+Connexion HFSQL Classic		CNX+		

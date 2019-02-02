@@ -1,0 +1,9 @@
+//MO007-008.TXT ANA00007 TO ANA00008
+EXPRESS_Compte		BASE		La base du fichier est passée de HFSQL Classic à HFSQL Client/Serveur
+EXPRESS_Compte		FCNX+	Connexion à '192.168.11.155'	
+EXPRESS_Connexion		BASE		La base du fichier est passée de HFSQL Classic à HFSQL Client/Serveur
+EXPRESS_Connexion		FCNX+	Connexion à '192.168.11.155'	
+EXPRESS_Album		BASE		La base du fichier est passée de HFSQL Classic à HFSQL Client/Serveur
+EXPRESS_Album		FCNX+	Connexion à '192.168.11.155'	
+Connexion à '192.168.11.206'		CNX+		
+Connexion à '192.168.11.155'		CNX+		
